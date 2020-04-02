@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pro_privacy_protocol">ユーザプロトコルとプライバシーポリシー</string>
+    <string name="pro_agree">同意</string>
+    <string name="pro_disagree">同意しない</string>
+    <string name="tv_privacy_protocol">弊社へのご支援ありがとうございます!当社はあなたの個人情報とプライバシー保護を非常に重視しています。あなたの個人の権利をより良く保障するために、私たちの製品を使用する前に、『プライバシーポリシー』と『ユーザー・プロトコル』内のすべての条項を注意深く読んでください特に:\\n\"1.私達はあなたの箇人情報の収集/保存/使用/対外提供/保護などの規則条項、およびあなたのユーザーの権利などの条項;\\ n2.我々の制限責任、免責条項を約束する。\\ n3.その他色や太字で表示する重要項目。\\ n以上の合意についてご質問があれば、私たちは、人工的な顧客サービスやメールで連絡しています。あなたが「同意して継続する」をクリックする行為は、あなたが既に閲覧済みであることを示し、上記の合意内容のすべてに同意することである。以上の合意内容に同意する場合は、「合意」をクリックして、私たちの制品とサービスを開始してください。</string>
+
+    <string name="privacy_policy_url">file:////android_asset/privacy_ja.html</string>
+    <string name="user_agreement_url">file:////android_asset/user_agreement_ja.html</string>
+    <string name="user_agreement"><u>ユーザープロトコル</u></string>
+    <string name="privacy_policy"><u>プライバシー政策</u></string>
+</resources>

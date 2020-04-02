@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">UserPrivatcy</string>
+
+    <string name="pro_privacy_protocol">User agreement and privacy policy</string>
+    <string name="pro_agree">I agrees.</string>
+    <string name="pro_disagree">I disagrees.</string>
+    <string name="tv_privacy_protocol">Thank you for your support to our company!The company attaches great importance to your personal information and privacy protection.In order to better protect your personal rights and interests, before you use our products,Please read all the terms and conditions of the privacy policy and the user agreement carefully.Especially: \ n"1. Our rules and provisions on the collection/storage/use/provision/protection of your personal information, and your user rights and other provisions;\ n2. Agree on our limitation and exemption clauses;\ n3. Other important clauses marked in color or bold.\ nIf you have any questions about the above agreement,You can contact us by human customer service or email.By clicking "agree and continue", you indicate that you have read and agree to the above agreement.If you agree to the above agreement, please click "agree" to start using our products and services!</string>
+
+    <string name="privacy_policy_url">file:////android_asset/privacy.html</string>
+    <string name="user_agreement_url">file:////android_asset/user_agreement.html</string>
+    <string name="user_agreement"><u>User agreement</u></string>
+    <string name="privacy_policy"><u>Privacy policy</u></string>
+</resources>
